@@ -1,0 +1,7 @@
+n=str(input())
+print(n)
+print(int(n[0]+n[2]+n[1]))
+print(int(n[1]+n[0]+n[2]))
+print(int(n[1]+n[2]+n[0]))
+print(int(n[2]+n[0]+n[1]))
+print(int(n[2]+n[1]+n[0]))
